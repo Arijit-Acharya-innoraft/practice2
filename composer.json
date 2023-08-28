@@ -21,7 +21,8 @@
         "drupal/core-project-message": "^10.1",
         "drupal/core-recommended": "^10.1",
         "drupal/paragraphs": "^1.15",
-        "drupal/pathauto": "^1.11"
+        "drupal/pathauto": "^1.11",
+        "drush/drush": "^11.5"
     },
     "conflict": {
         "drupal/drupal": "*"
